@@ -1,13 +1,7 @@
 Orion Facts
 ===========
 
-Facts and import all your Orion data.
-
-It can facts all the collections and the dictionary.
-
-When importing it will remove all documents stored.
-
-The ids of the documents will be kept.
+Meteor Facts in Orion.
 
 ### Installing
 

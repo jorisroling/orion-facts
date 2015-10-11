@@ -1,7 +1,7 @@
 Package.describe({
   name: 'jorisroling:orion-facts',
   summary: 'Meteor Facts in Orion',
-  version: '0.0.1',
+  version: '0.0.2',
   git: 'https://github.com/jorisroling/orion-facts'
 });
 

@@ -1,5 +1,3 @@
-Options.init('showFactsTab', false);
-
 /**
  * Init the template name variable
  */
