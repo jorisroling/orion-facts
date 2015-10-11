@@ -1,0 +1,7 @@
+#orionFacts {margin-top:10px}
+#orionFacts ul {display: inline} 
+#orionFacts ul li { list-style: none;float: left;display: inline-block;text-transform: capitalize;font-weight:bold;color: gray;}
+
+#orionFacts dl { border: 1px solid silver; margin: 0.5em; padding: 1em;overflow: hidden; }
+#orionFacts dt { float: left; clear: both; color: gray; }
+#orionFacts dd { margin-left:10px;float: right; color: black; font-weight:bold;white-space: nowrap;}
